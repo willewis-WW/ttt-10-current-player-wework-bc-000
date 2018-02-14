@@ -2,12 +2,12 @@
 
 def turn_count(board)
   iterator = 0
-  board.each do |space|
-    if space != ' '
-      iterator += 1
-    else
-      pass
-    end
+#  board.each do |space|
+#    if space != ' '
+#      iterator += 1
+#    else
+#      pass
+#    end
   return iterator
 end
 
