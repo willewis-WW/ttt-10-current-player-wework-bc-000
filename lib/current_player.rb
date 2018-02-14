@@ -6,7 +6,7 @@ def turn_count(board)
     if space != " "
       iterator += 1
     else
-#      pass
+      skip
     end
   return iterator
 end
