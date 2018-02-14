@@ -8,6 +8,7 @@ def turn_count(board)
     else
       # do nothing
     end
+  end
   return iterator
 end
 
