@@ -5,7 +5,7 @@ def turn_count(board)
   board.each do |space|
     if space != ' '
       iterator += 1
-#    else
+    else
 #      pass
     end
   return iterator
