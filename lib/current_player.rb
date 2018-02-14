@@ -14,7 +14,7 @@ end
 
 
 
-=begin
+
 def current_player(board)
   count = turn_count(board)
   
@@ -24,4 +24,3 @@ def current_player(board)
     'X' # returns this token instead
   end
 end
-=end
